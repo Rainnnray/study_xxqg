@@ -69,7 +69,7 @@
       </div>
       <div class="link" style="width: 100%;">
         <van-button block type="primary" @click="handleScheme">
-          调用APP跳转登录
+          正在调用APP跳转登录
         </van-button>
       </div>
     </div>
